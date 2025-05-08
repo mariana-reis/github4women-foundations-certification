@@ -13,6 +13,7 @@ Este repositório contém as atividades práticas realizadas durante o curso **G
 - 🌿 Adição de branch  
 - 🔄 Clone de repositório  
 --- 
+
 ### 🔹 Módulo 3: *Collaboration Features*
 
 **Tópicos abordados:**
@@ -22,6 +23,7 @@ Este repositório contém as atividades práticas realizadas durante o curso **G
 - 🔀 Trabalhar com Pull Requests  
 - 📚 Criar e gerenciar Wikis
 ---
+
 ### 🔹 Módulo 4: *Modern Development*
 
 **Tópicos abordados:**
@@ -30,6 +32,34 @@ Este repositório contém as atividades práticas realizadas durante o curso **G
 - 🚀 Automatização de fluxos de trabalho de desenvolvimento
 - ✅ Construção, testes e deploy automatizado de código
 ---
+
+### 🔹 Módulo 5: *Project Management*
+
+**Tópicos abordados:**
+- 🗂️ Criar um **Project** para organização de tarefas  
+- ✅ Adicionar **Issues** diretamente no board  
+- 🏁 Criar **Milestones** para planejar entregas  
+- 🏷️ Gerenciar **Labels** personalizadas para categorizar tarefas  
+- 💬 Criar **Saved Replies** para agilizar respostas em Issues e Pull Requests  
+- 📊 Utilizar diferentes **visualizações de projeto** para acompanhar o progresso
+---
+
+### 🔹 Módulo 6: *Privacy, Security, and Administration*
+
+**Tópicos abordados:**
+- 🔐 Práticas de **privacidade e segurança** em projetos no GitHub  
+- 🔒 Configuração de **autenticação de dois fatores (2FA)** para proteger a conta  
+- 🛡️ Noções de **administração de repositórios** e permissões de acesso  
+---
+
+### 🔹 Módulo 7: *Benefits of the GitHub Community*
+
+**Tópicos abordados:**
+- 🏢 Como **criar uma organização** no GitHub para facilitar a colaboração em equipe  
+- 🍴 Como **fazer um fork** de um repositório para contribuir com projetos open source  
+- 🤝 Importância de participar da **comunidade GitHub** para aprendizado, networking e crescimento na carreira
+---
+
 ## 🚀 Objetivo
 
 Acompanhar o aprendizado e a prática com **Git** e **GitHub**, aplicando boas práticas de versionamento e colaboração em projetos reais.
